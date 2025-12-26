@@ -1,8 +1,3 @@
-import "js/data/units.js";
-import "js/common.js";
-import "js/settings_loadsavedel.js";
-import "js/jquery/jquery-2.0.3.min.js";
-
 console.log("Background service worker loaded.");
 
 // Example: Listen for when extension is installed or updated
